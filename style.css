@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+}
+
+#ul {
+    width: 20%;
+    margin-left: 25%;
+    height: 150%;
+    image-resolution: 1000dpi;
+    width: 1000px;
+}
+
+#ol {
+    width: 20%;
+    margin-left: 25%;
+    height: 150%;
+    image-resolution: 1000dpi;
+    width: 1000px;
+}
+
+#el {
+    width: 20%;
+    margin-left: 25%;
+    height: 150%;
+    image-resolution: 1000dpi;
+    width: 1000px;
+}
+
+#al {
+    width: 20%;
+    margin-left: 25%;
+    height: 150%;
+    image-resolution: 1000dpi;
+    width: 1000px;
+}
